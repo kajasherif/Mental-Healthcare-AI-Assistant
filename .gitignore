@@ -122,11 +122,18 @@ celerybeat.pid
 # Environments
 .env
 .venv
+antenv
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+
+backend/dump
+backend/.env
+backend/flask_session
+backend/uploads
+backend/evaluation
 
 # Spyder project settings
 .spyderproject
