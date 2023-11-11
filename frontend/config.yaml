@@ -1,0 +1,13 @@
+cookie:
+  expiry_days: 1
+  key: IznMhU5NTRSMXEkv9iuihojQf5LfAZb5
+  name: mental_healthcare_ai_assistant_cookie
+credentials:
+  usernames:
+    kajasherief:
+      email: kajasheriefcs@gmail.com
+      name: kajasherief
+      password: $2b$12$ck6j8T2s3pdCm32j/E4tlOZdcMDzS.LWqTLNRbHum4yvBdAvCxTSe
+preauthorized:
+  emails:
+  - kajasheriefcs@gmail.com
